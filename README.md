@@ -5,11 +5,11 @@ Installation
 
 To install SudoKilla, you can either download the code from the GitHub repository or use the package manager npm to install it. Here are the steps to install using npm:
 
-    Open your terminal or command prompt.
-    Navigate to the directory where you want to install SudoKilla.
-    Run the following command:
+Open your terminal or command prompt.
+Navigate to the directory where you want to install SudoKilla.
+Run the following command:
 
-npm install sudokilla
+    npm install sudokilla
 
 Usage
 
